@@ -1,5 +1,7 @@
 # Script to play the chrome offline dinosaur game
 
+![Image of Game](http://i.imgur.com/JJzpugZ.png)
+
 ### How to run:
 - Open chrome developer console. (F12)
 - Start the game (Make sure the dinosaur is running)
